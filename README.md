@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hi there 👋 my name is Monica
+
+- 🔎 I’m currently searching for my next home as a software engineer. To showcase my technical skills and out of a desire to deepen my knowledge, I've been completing personal projects. Many are Udacity projects, so I don't go build blindly and re-invent the wheel. I usually added something extra on top of the original project spec though.<br />
+
+    Since I've started, I've covered C++, Java 8+ features including the Streams API/functional programming in Java, concurrency, design patterns, Mockito/JUnit/Jackson/Guice, full-stack development in Express.js and Flask with Docker files, a Chrome extension I came up with using TypeScript. In my next round, I plan on filling out fundamental CS projects like a compiler and database using MOOCs from Stanford and UC Berkeley.<br />
+
+- 🔭 I’m currently working on open-source contributions to Julia lang.
+- 😄 Pronouns: She/her/hers
+- ⚡ Fun fact: It's possible to read articles from some (one) news site for free by disabling JavaScript to get past the paywall...Another fun one is `import this` in the Python REPL for The Zen of Python.....
+<br /><br />
+I have some blog-like posts in this repo. I also have a personal about me site I made solely for fun.
 
 <!--
 **persinammon/persinammon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
